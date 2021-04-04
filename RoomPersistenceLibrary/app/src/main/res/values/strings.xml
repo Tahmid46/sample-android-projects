@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RoomPersistenceLibrary</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_of_note">Title</string>
+    <string name="detail_of_note">Note</string>
+</resources>
